@@ -1,0 +1,123 @@
+h1{
+    background-color:rgb(75, 72, 72);
+    color:whitesmoke;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-style:italic;
+    font-family: 'Sacramento', cursive;
+    font-size:2em;
+}
+
+p{
+
+    
+margin-top: 0px;
+font-size:30 px;
+font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    margin: 0px;
+    text-align:center;
+    font-family: "Arial Narrow",Arial,sans-serif; 
+    font-size:2em;
+}
+
+.firstdiv{
+    background-color:rgb(75, 72, 72);
+    margin-top:0px;
+    height: 700px;
+    
+}
+
+.class{
+    margin-left:-60%;
+    margin-top:20%;
+position:relative;
+}
+
+.cloud1{
+    margin-left:60%;
+    margin-bottom:20;
+    position:relative;
+
+}
+
+.cloud2{
+    margin-left:-80%;
+    margin-bottom:auto;
+    position:relative;
+    
+    
+    
+
+}
+
+.mountain{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    
+    
+}
+
+hr {
+    background-color:white;
+    border-color:black;
+    border-style:dotted;
+    border-bottom-style:none;
+    width:10%;
+    border-width:5px;
+}
+
+
+
+
+
+
+.contact-me{
+    background-color:none;
+    color:black;
+    text-align:center;
+    
+}
+
+.bottom{
+    background-color:none;
+    color:black;
+    text-align:center;
+
+}
+
+.middle{
+    
+    
+    
+    margin-left:auto;
+    margin-right:auto;
+    width:35%;
+    
+   
+    }
+    
+    .skills{
+        
+        
+        margin-left:auto;
+        margin-right:auto;
+    
+        
+    }
+    
+    .skill-row{
+        
+        
+        margin-left:auto;
+        margin-right:auto;
+
+        
+       
+        
+        
+    }
